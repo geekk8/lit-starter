@@ -1,7 +1,7 @@
 import { html, LitElement } from "lit";
 import { customElement, property } from "lit/decorators";
 
-@customElement('introduce')
+@customElement('my-introduce')
 export class introduce extends LitElement {
   @property({type:String})
   name = 'noh kuk hyun'
@@ -16,7 +16,7 @@ export class introduce extends LitElement {
 
   override render() {
     html`
-
+    
     `
   }
 }

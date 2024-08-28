@@ -6,4 +6,4 @@ export declare class introduce extends LitElement {
     getMyIntroudceData: () => void;
     render(): void;
 }
-//# sourceMappingURL=introduce.d.ts.map
+//# sourceMappingURL=my-introduce.d.ts.map
