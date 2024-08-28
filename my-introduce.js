@@ -17,7 +17,7 @@ let introduce = class introduce extends LitElement {
     }
     render() {
         html `
-
+    
     `;
     }
 };
@@ -28,7 +28,7 @@ __decorate([
     property({ type: Number })
 ], introduce.prototype, "age", void 0);
 introduce = __decorate([
-    customElement('introduce')
+    customElement('my-introduce')
 ], introduce);
 export { introduce };
-//# sourceMappingURL=introduce.js.map
+//# sourceMappingURL=my-introduce.js.map
