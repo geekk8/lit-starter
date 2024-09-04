@@ -33,7 +33,8 @@
   ],
   "author": "geek89",
   "dependencies": {
-    "lit": "^3.2.0"
+    "lit": "^3.2.0",
+    "lit-element-router": "^2.0.3"
   },
   "devDependencies": {
     "@11ty/eleventy": "^1.0.1",
